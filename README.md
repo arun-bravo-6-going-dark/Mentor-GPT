@@ -39,7 +39,7 @@ The application enables students to upload project reports, fill out key academi
 
 4. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run mentor_gpt_1.py
    ```
 
 5. Access the app:
