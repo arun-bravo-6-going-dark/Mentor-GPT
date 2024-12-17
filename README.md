@@ -104,6 +104,11 @@ The application enables students to upload project reports, fill out key academi
 - **Multi-User Support**: Enable account creation and personalized sessions for multiple users.
 
 ---
+## 🖼️ Demo Screenshot
+<img width="1304" alt="Screenshot 2024-03-06 at 4 26 46 AM" src="https://github.com/user-attachments/assets/e787782e-16dc-475f-9322-b7f8f888555c" />
+<img width="1338" alt="Screenshot 2024-03-06 at 4 32 13 AM" src="https://github.com/user-attachments/assets/3a5daa9c-6cd1-4801-ac5c-fb68d8973ba5" />
+
+---
 
 ## Technologies Used
 - **Frontend**: Streamlit for UI and interaction.
